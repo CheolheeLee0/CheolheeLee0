@@ -71,6 +71,7 @@
 
 ## Lotto number generation app
 ### Overview
+- It is an application that collects the tools you need to enjoy the lottery.
 - Lottery number winning information.
   - You can check the winning information of the previous week.
   - You can check the number of winners and the amount of winners.
