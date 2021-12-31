@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-- ✈ I worked at Information system management group for 2 years.
+- ✈ I worked at [Information system management group](https://namu.wiki/w/%EA%B3%B5%EA%B5%B0%EC%A0%95%EB%B3%B4%EC%B2%B4%EA%B3%84%EA%B4%80%EB%A6%AC%EB%8B%A8) for 2 years.
 - 🏬 I'm currently a computer science student at [Chungnam National University](https://computer.cnu.ac.kr/).
 - 🌏 I’m currently learning more about Flutter Application Development.
 - 💬 Ask me about Flutter or any tech-related stuff.
@@ -15,7 +15,7 @@
 - 😄 Pronouns: He/His
 - 💧 Fun fact: I drink at least 2 liters of water a day.
 
-**Languages and Tools:**  
+## Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
@@ -41,14 +41,24 @@
 </a>
  -->
 
+## BOJ solved.ac
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wks0968)](https://solved.ac/wks0968)
+
+## Flutter-Firebase-Chatting
 
 <img src="images/chatting_1.gif" height="300em" /> <img src="images/chatting_2.gif" height="300em" /> <img src="images/chatting_3.gif" height="300em" /> <img src="images/chatting_4.gif" height="300em" /> <img src="images/chatting_5.gif" height="300em" />
 
 <img src="images/backend_1.gif" height="300em" />
 <img src="images/backend_2.gif" height="300em" />
 <img src="images/backend_3.gif" height="300em" />
+
+## Lotto application
+
+<img src="images/lotto_1.gif" height="300em" /> <img src="images/lotto_2.gif" height="300em" /> <img src="images/lotto_3.gif" height="300em" /> <img src="images/lotto_4.gif" height="300em" /> <img src="images/lotto_5.gif" height="300em" />
+
+
 
 <div align="center">
 
