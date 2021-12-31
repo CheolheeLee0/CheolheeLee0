@@ -48,14 +48,30 @@
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wks0968)](https://solved.ac/wks0968)
 
 ## Flutter-Firebase-Chatting
+### Overview
+- An application that allows firebase google login users to chat.
+- It is linked to the server.
+- It reflects the comments in real time using stream builder.
 
+### Technology stack
+- Flutter, Dart
+- Firebase
+- Firebase auth
+- Firestore
+- Firestorage
+- Streambuilder
+- Provider
+
+### Screenshots
+#### In App
 <img src="images/chatting_1.gif" height="300em" /> <img src="images/chatting_2.gif" height="300em" /> <img src="images/chatting_3.gif" height="300em" /> <img src="images/chatting_4.gif" height="300em" /> <img src="images/chatting_5.gif" height="300em" />
-
+#### Backend
 <img src="images/backend_1.gif" height="300em" />
 <img src="images/backend_2.gif" height="300em" />
 <img src="images/backend_3.gif" height="300em" />
 
 ## Lotto number generation app
+### Overview
 - Lottery number winning information.
   - You can check the winning information of the previous week.
   - You can check the number of winners and the amount of winners.
@@ -72,17 +88,34 @@
 - QR code shooting.
   - Search for winning information using QR codes.
 
+### Technology stack
+- Flutter
+- Firebase
+- SQLite
+- Google maps
+- QR code scanner
+- GetX
+
+### Screenshots
 <img src="images/lotto_1.gif" height="300em" /> <img src="images/lotto_2.gif" height="300em" /> <img src="images/lotto_3.gif" height="300em" /> <img src="images/lotto_4.gif" height="300em" /> <img src="images/lotto_5.gif" height="300em" />
 
 ## Share Alarm web application
-Shalarm is a text-based alarm sharing service. You can easily add alarms for the day of the week by using keywords on weekdays, weekends, and every day. Alarm information stored on the server can be accessed and retrieved anytime, anywhere with login information. Group alarms to which multiple alarms belong and divided by group name can be shared with multiple people once registered, increasing the reuse of alarms. You can conveniently add a specific group alarm to your schedule with a click. Other functions include timer and stopwatch functions.
+### Overview
+- Shalarm is a text-based alarm sharing service. 
+- You can easily add alarms for the day of the week by using keywords on weekdays, weekends, and every day. 
+- Alarm information stored on the server can be accessed and retrieved anytime, anywhere with login information. 
+- Group alarms to which multiple alarms belong and divided by group name can be shared with multiple people once registered, increasing the reuse of alarms. 
+- You can conveniently add a specific group alarm to your schedule with a click. 
+- Other functions include timer and stopwatch functions.
 
+### Technology stack
 - web link : [https://shalarm.herokuapp.com/](https://shalarm.herokuapp.com/)
 - Frontend : React.js
 - Backend : Node.js
 - Database : MySQL
 - Server : heroku
 
+### Screenshots
 <img src="images/shalarm_1.png" /> 
 <img src="images/shalarm_2.png" /> 
 <img src="images/shalarm_3.png" /> 
