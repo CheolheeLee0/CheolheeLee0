@@ -7,6 +7,7 @@
 <br/>
 <br/>
 
+- ✈ I worked at Information system management group for 2 years.
 - 🏬 I'm currently a computer science student at [Chungnam National University](https://computer.cnu.ac.kr/).
 - 🌏 I’m currently learning more about Flutter Application Development.
 - 💬 Ask me about Flutter or any tech-related stuff.
@@ -39,9 +40,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CheolheeLee0&repo=fbchat0008&theme=light" />
 </a>
  -->
-<br/>
-<br/>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=wks0968)](https://solved.ac/wks0968)
 
 <img src="images/chatting_1.gif" height="300em" /> <img src="images/chatting_2.gif" height="300em" /> <img src="images/chatting_3.gif" height="300em" /> <img src="images/chatting_4.gif" height="300em" /> <img src="images/chatting_5.gif" height="300em" />
 
