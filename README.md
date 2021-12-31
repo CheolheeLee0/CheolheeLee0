@@ -31,7 +31,11 @@
 <a href="https://github.com/CheolheeLee0">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CheolheeLee0&show_icons=true&theme=light&line_height=27" alt="CheolheeLee0's github stats"/>
 </a>
-[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://www.youtube.com/watch?v=ot5ctOZe2X0&ab_channel=DynamicCoding)
+
+![Video Label](images/thumbnail1.png)
+
+<img src="images/chatting.gif" height="300em" />
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
