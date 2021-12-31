@@ -79,11 +79,13 @@ Shalarm is a text-based alarm sharing service. You can easily add alarms for the
 
 - web link : [https://shalarm.herokuapp.com/](https://shalarm.herokuapp.com/)
 - Frontend : React.js
-- Backend : Node.js + MySQL
+- Backend : Node.js
+- Database : MySQL
 - Server : heroku
 
 <img src="images/shalarm_1.png" /> 
 <img src="images/shalarm_2.png" /> 
+<img src="images/shalarm_3.png" /> 
 
 <div align="center">
 
