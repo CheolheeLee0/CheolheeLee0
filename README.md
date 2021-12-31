@@ -32,11 +32,14 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CheolheeLee0&show_icons=true&theme=light&line_height=27" alt="CheolheeLee0's github stats"/>
 </a>
 
-![Video Label](images/thumbnail1.png)
+<img src="images/chatting_1.gif" height="300em" /> <img src="images/chatting_2.gif" height="300em" /> <img src="images/chatting_3.gif" height="300em" /> <img src="images/chatting_4.gif" height="300em" /> <img src="images/chatting_5.gif" height="300em" />
 
-<img src="images/chatting.gif" height="300em" />
+<img src="images/backend_1.gif" height="300em" />
+<img src="images/backend_2.gif" height="300em" />
+<img src="images/backend_3.gif" height="300em" />
 
 <div align="center">
+
 
 ### Show some ❤️ by starring some of the repositories!
 
