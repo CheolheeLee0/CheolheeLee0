@@ -35,10 +35,10 @@
 <br/>
 <br/>
 
-<a href="https://github.com/CheolheeLee0/fbchat0008">
+<!-- <a href="https://github.com/CheolheeLee0/fbchat0008">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CheolheeLee0&repo=fbchat0008&theme=light" />
 </a>
-
+ -->
 <br/>
 <br/>
 
