@@ -11,7 +11,8 @@
 - 🏬 I'm currently a computer science student at [Chungnam National University](https://computer.cnu.ac.kr/).
 - 🌏 I’m currently learning more about Flutter Application Development.
 - 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: [Tistory - @차리](https://cheolheelee.tistory.com) , [Youtube - @Dynamic Coding](https://www.youtube.com/channel/UCREHSgfUejCm_yiWfWSen1Q)
+- 📫 How to reach me: [Tistory - @차리](https://cheolheelee.tistory.com) , [Youtube - @Dynamic Coding](https://www.youtube.com/channel/UCREHSgfUejCm_yiWfWSen1Q) , [Gmail - @wks0968@gmail.com](https://mail.google.com)
+- 😄 Pronouns: He/His
 - 😄 Pronouns: He/His
 - 💧 Fun fact: I drink at least 2 liters of water a day.
 
