@@ -54,7 +54,7 @@
 <img src="images/backend_2.gif" height="300em" />
 <img src="images/backend_3.gif" height="300em" />
 
-## Lotto application
+## Lotto number generation app
 
 <img src="images/lotto_1.gif" height="300em" /> <img src="images/lotto_2.gif" height="300em" /> <img src="images/lotto_3.gif" height="300em" /> <img src="images/lotto_4.gif" height="300em" /> <img src="images/lotto_5.gif" height="300em" />
 
