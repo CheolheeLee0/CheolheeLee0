@@ -136,6 +136,7 @@
 - Design : Figma
 
 ### Screenshots
+<p float="left">
 <img src="images/nail_1.jpg" height="300em"/> 
 <img src="images/nail_2.jpg" height="300em"/> 
 <img src="images/nail_3.jpg" height="300em"/> 
@@ -145,7 +146,7 @@
 <img src="images/nail_7.jpg" height="300em"/> 
 <img src="images/nail_8.jpg" height="300em"/> 
 <img src="images/nail_9.jpg" height="300em"/> 
-
+</p>
 ## Haksiklife Flutter application
 ### Overview
 - On the app that shared school schedules and schedules! a calendar for college students
@@ -159,6 +160,7 @@
 - Design : Figma
 
 ### Screenshots
+<p float="left">
 <img src="images/haksik_1.jpg" height="300em"/> 
 <img src="images/haksik_2.jpg" height="300em"/> 
 <img src="images/haksik_3.jpg" height="300em"/> 
@@ -170,7 +172,7 @@
 <img src="images/haksik_9.jpg" height="300em"/> 
 <img src="images/haksik_10.jpg" height="300em"/> 
 <img src="images/haksik_11.jpg" height="300em"/> 
-
+</p>
 <div align="center">
 ### Show some ❤️ by starring some of the repositories!
 </div>
