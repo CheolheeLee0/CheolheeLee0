@@ -136,15 +136,15 @@
 - Design : Figma
 
 ### Screenshots
-<img src="images/nail_1.jpg" /> 
-<img src="images/nail_2.jpg" /> 
-<img src="images/nail_3.jpg" /> 
-<img src="images/nail_4.jpg" /> 
-<img src="images/nail_5.jpg" /> 
-<img src="images/nail_6.jpg" /> 
-<img src="images/nail_7.jpg" /> 
-<img src="images/nail_8.jpg" /> 
-<img src="images/nail_9.jpg" /> 
+<img src="images/nail_1.jpg" height="300em"/> 
+<img src="images/nail_2.jpg" height="300em"/> 
+<img src="images/nail_3.jpg" height="300em"/> 
+<img src="images/nail_4.jpg" height="300em"/> 
+<img src="images/nail_5.jpg" height="300em"/> 
+<img src="images/nail_6.jpg" height="300em"/> 
+<img src="images/nail_7.jpg" height="300em"/> 
+<img src="images/nail_8.jpg" height="300em"/> 
+<img src="images/nail_9.jpg" height="300em"/> 
 
 ## Haksiklife Flutter application
 ### Overview
@@ -159,18 +159,17 @@
 - Design : Figma
 
 ### Screenshots
-<img src="images/haksik_1.jpg" /> 
-<img src="images/haksik_2.jpg" /> 
-<img src="images/haksik_3.jpg" /> 
-<img src="images/haksik_4.jpg" /> 
-<img src="images/haksik_5.jpg" /> 
-<img src="images/haksik_6.jpg" /> 
-<img src="images/haksik_7.jpg" /> 
-<img src="images/haksik_8.jpg" /> 
-<img src="images/haksik_9.jpg" /> 
-<img src="images/haksik_10.jpg" /> 
-<img src="images/haksik_11.jpg" /> 
-
+<img src="images/haksik_1.jpg" height="300em"/> 
+<img src="images/haksik_2.jpg" height="300em"/> 
+<img src="images/haksik_3.jpg" height="300em"/> 
+<img src="images/haksik_4.jpg" height="300em"/> 
+<img src="images/haksik_5.jpg" height="300em"/> 
+<img src="images/haksik_6.jpg" height="300em"/> 
+<img src="images/haksik_7.jpg" height="300em"/> 
+<img src="images/haksik_8.jpg" height="300em"/> 
+<img src="images/haksik_9.jpg" height="300em"/> 
+<img src="images/haksik_10.jpg" height="300em"/> 
+<img src="images/haksik_11.jpg" height="300em"/> 
 
 <div align="center">
 ### Show some ❤️ by starring some of the repositories!
