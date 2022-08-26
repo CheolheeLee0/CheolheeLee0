@@ -116,14 +116,16 @@
 - Server : heroku
 
 ### Screenshots
+
 <img src="images/shalarm_1.png" /> 
 <img src="images/shalarm_2.png" /> 
 <img src="images/shalarm_3.png" /> 
 
 
 ## Freeview Flutter application
+
 ### Overview
-- Preview is a community-based communication community service.
+- Freview is a community-based communication community service.
 - You can easily find a nail art model and get a job as a nail art model.
 - You can talk to people in the nail art industry through various bulletin boards.
 - You can express yourself through the profile function. 
@@ -147,7 +149,9 @@
 <img src="images/nail_8.jpg" height="300em"/> 
 <img src="images/nail_9.jpg" height="300em"/> 
 </p>
+
 ## Haksiklife Flutter application
+
 ### Overview
 - On the app that shared school schedules and schedules! a calendar for college students
 - Add my classes and appointments and invite friends to manage your schedule!
@@ -160,6 +164,7 @@
 - Design : Figma
 
 ### Screenshots
+
 <p float="left">
 <img src="images/haksik_1.jpg" height="300em"/> 
 <img src="images/haksik_2.jpg" height="300em"/> 
@@ -173,7 +178,10 @@
 <img src="images/haksik_10.jpg" height="300em"/> 
 <img src="images/haksik_11.jpg" height="300em"/> 
 </p>
+
 <div align="center">
+  
 ### Show some ❤️ by starring some of the repositories!
+  
 </div>
 
