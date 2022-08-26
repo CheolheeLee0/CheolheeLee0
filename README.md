@@ -46,6 +46,66 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wks0968)](https://solved.ac/wks0968)
 
+
+## Haksiklife Flutter application
+
+### Overview
+- On the app that shared school schedules and schedules! a calendar for college students
+- Add my classes and appointments and invite friends to manage your schedule!
+
+### Technology stack
+- Frontend : Flutter, GetX
+- Backend : Spring
+- Database : AWS RDS, MySql
+- Server : AWS EC2
+- Design : Figma
+
+### Screenshots
+
+<p float="left">
+<img src="images/haksik_1.jpg" height="300em"/> 
+<img src="images/haksik_2.jpg" height="300em"/> 
+<img src="images/haksik_3.jpg" height="300em"/> 
+<img src="images/haksik_4.jpg" height="300em"/> 
+<img src="images/haksik_5.jpg" height="300em"/> 
+<img src="images/haksik_6.jpg" height="300em"/> 
+<img src="images/haksik_7.jpg" height="300em"/> 
+<img src="images/haksik_8.jpg" height="300em"/> 
+<img src="images/haksik_9.jpg" height="300em"/> 
+<img src="images/haksik_10.jpg" height="300em"/> 
+<img src="images/haksik_11.jpg" height="300em"/> 
+</p>
+
+
+## Freeview Flutter application
+
+### Overview
+- Freview is a community-based communication community service.
+- You can easily find a nail art model and get a job as a nail art model.
+- You can talk to people in the nail art industry through various bulletin boards.
+- You can express yourself through the profile function. 
+- The subscription feature lets you manage people you are interested in.
+
+### Technology stack
+- Frontend : Flutter, GetX
+- Backend : Firebase
+- Database : Firebase Firestore
+- Design : Figma
+
+### Screenshots
+<p float="left">
+<img src="images/nail_1.jpg" height="300em"/> 
+<img src="images/nail_2.jpg" height="300em"/> 
+<img src="images/nail_3.jpg" height="300em"/> 
+<img src="images/nail_4.jpg" height="300em"/> 
+<img src="images/nail_5.jpg" height="300em"/> 
+<img src="images/nail_6.jpg" height="300em"/> 
+<img src="images/nail_7.jpg" height="300em"/> 
+<img src="images/nail_8.jpg" height="300em"/> 
+<img src="images/nail_9.jpg" height="300em"/> 
+</p>
+
+
 ## Flutter-Firebase-Chatting
 ### Overview
 - An application that allows firebase google login users to chat.
@@ -120,64 +180,6 @@
 <img src="images/shalarm_1.png" /> 
 <img src="images/shalarm_2.png" /> 
 <img src="images/shalarm_3.png" /> 
-
-
-## Freeview Flutter application
-
-### Overview
-- Freview is a community-based communication community service.
-- You can easily find a nail art model and get a job as a nail art model.
-- You can talk to people in the nail art industry through various bulletin boards.
-- You can express yourself through the profile function. 
-- The subscription feature lets you manage people you are interested in.
-
-### Technology stack
-- Frontend : Flutter, GetX
-- Backend : Firebase
-- Database : Firebase Firestore
-- Design : Figma
-
-### Screenshots
-<p float="left">
-<img src="images/nail_1.jpg" height="300em"/> 
-<img src="images/nail_2.jpg" height="300em"/> 
-<img src="images/nail_3.jpg" height="300em"/> 
-<img src="images/nail_4.jpg" height="300em"/> 
-<img src="images/nail_5.jpg" height="300em"/> 
-<img src="images/nail_6.jpg" height="300em"/> 
-<img src="images/nail_7.jpg" height="300em"/> 
-<img src="images/nail_8.jpg" height="300em"/> 
-<img src="images/nail_9.jpg" height="300em"/> 
-</p>
-
-## Haksiklife Flutter application
-
-### Overview
-- On the app that shared school schedules and schedules! a calendar for college students
-- Add my classes and appointments and invite friends to manage your schedule!
-
-### Technology stack
-- Frontend : Flutter, GetX
-- Backend : Spring
-- Database : AWS RDS, MySql
-- Server : AWS EC2
-- Design : Figma
-
-### Screenshots
-
-<p float="left">
-<img src="images/haksik_1.jpg" height="300em"/> 
-<img src="images/haksik_2.jpg" height="300em"/> 
-<img src="images/haksik_3.jpg" height="300em"/> 
-<img src="images/haksik_4.jpg" height="300em"/> 
-<img src="images/haksik_5.jpg" height="300em"/> 
-<img src="images/haksik_6.jpg" height="300em"/> 
-<img src="images/haksik_7.jpg" height="300em"/> 
-<img src="images/haksik_8.jpg" height="300em"/> 
-<img src="images/haksik_9.jpg" height="300em"/> 
-<img src="images/haksik_10.jpg" height="300em"/> 
-<img src="images/haksik_11.jpg" height="300em"/> 
-</p>
 
 <div align="center">
   
