@@ -120,10 +120,59 @@
 <img src="images/shalarm_2.png" /> 
 <img src="images/shalarm_3.png" /> 
 
+
+## Freeview Flutter application
+### Overview
+- Preview is a community-based communication community service.
+- You can easily find a nail art model and get a job as a nail art model.
+- You can talk to people in the nail art industry through various bulletin boards.
+- You can express yourself through the profile function. 
+- The subscription feature lets you manage people you are interested in.
+
+### Technology stack
+- Frontend : Flutter, GetX
+- Backend : Firebase
+- Database : Firebase Firestore
+- Design : Figma
+
+### Screenshots
+<img src="images/nail_1.png" /> 
+<img src="images/nail_2.png" /> 
+<img src="images/nail_3.png" /> 
+<img src="images/nail_4.png" /> 
+<img src="images/nail_5.png" /> 
+<img src="images/nail_6.png" /> 
+<img src="images/nail_7.png" /> 
+<img src="images/nail_8.png" /> 
+<img src="images/nail_9.png" /> 
+
+## Haksiklife Flutter application
+### Overview
+- On the app that shared school schedules and schedules! a calendar for college students
+- Add my classes and appointments and invite friends to manage your schedule!
+
+### Technology stack
+- Frontend : Flutter, GetX
+- Backend : Spring
+- Database : AWS RDS, MySql
+- Server : AWS EC2
+- Design : Figma
+
+### Screenshots
+<img src="images/haksik_1.png" /> 
+<img src="images/haksik_2.png" /> 
+<img src="images/haksik_3.png" /> 
+<img src="images/haksik_4.png" /> 
+<img src="images/haksik_5.png" /> 
+<img src="images/haksik_6.png" /> 
+<img src="images/haksik_7.png" /> 
+<img src="images/haksik_8.png" /> 
+<img src="images/haksik_9.png" /> 
+<img src="images/haksik_10.png" /> 
+<img src="images/haksik_11.png" /> 
+
+
 <div align="center">
-
-
 ### Show some ❤️ by starring some of the repositories!
-
 </div>
 
