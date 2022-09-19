@@ -1,17 +1,15 @@
-## Hola, I'm [CheolheeLee0](https://pawan.live) 👋
+## Hi, I'm [CheolheeLee0](https://pawan.live) 👋
 
-<a href="https://www.youtube.com/channel/UCREHSgfUejCm_yiWfWSen1Q">
-  <img align="left" alt="cheolhee's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
 
-<br/>
-<br/>
-
-- ✈ I worked at [Information system management group](https://namu.wiki/w/%EA%B3%B5%EA%B5%B0%EC%A0%95%EB%B3%B4%EC%B2%B4%EA%B3%84%EA%B4%80%EB%A6%AC%EB%8B%A8) for 2 years.
+- ✈ I worked at [Information system management group](https://namu.wiki/w/%EA%B3%B5%EA%B5%B0%EC%A0%95%EB%B3%B4%EC%B2%B4%EA%B3%84%EA%B4%80%EB%A6%AC%EB%8B%A8) as Software Maintenance and Development of Air force overtime management system for 2 years.
 - 🏬 I'm currently a computer science student at [Chungnam National University](https://computer.cnu.ac.kr/).
 - 🌏 I’m currently learning more about Flutter Application Development.
 - 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: [Tistory - @차리](https://cheolheelee.tistory.com) , [Youtube - @Dynamic Coding](https://www.youtube.com/channel/UCREHSgfUejCm_yiWfWSen1Q) , [Gmail - @wks0968@gmail.com](https://mail.google.com)
+- 📫 How to reach me: 
+  - [크몽 - @늘찬솔](https://kmong.com/gig/404740)
+  - [Tistory - @차리](https://cheolheelee.tistory.com)
+  - [Youtube - @Dynamic Coding](https://www.youtube.com/channel/UCREHSgfUejCm_yiWfWSen1Q)
+  - [Gmail - @wks0968@gmail.com](https://mail.google.com)
 - 😄 Pronouns: He/His
 - 💧 Fun fact: I drink at least 2 liters of water a day.
 
@@ -45,6 +43,32 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wks0968)](https://solved.ac/wks0968)
+
+
+## 보이는중국어(Visible Chinese) Flutter application
+
+### Overview
+- Chinese conversation education application that learns by looking at native pronunciation.
+- You can re-learn words that you don't know or are confused by the function of reviewing them.
+
+### Technology stack
+- Frontend : Flutter, GetX
+- Backend : Firebase
+- Database : Firestore
+- Design : Adobe
+- Ad : Google Admob
+- In-App Subscription : RevenueCat
+- Platform : Android, iOS
+
+### Screenshots
+
+<p float="left">
+<img src="images/visiblechinese_1.PNG" height="300em"/> 
+<img src="images/visiblechinese_2.PNG" height="300em"/> 
+<img src="images/visiblechinese_3.PNG" height="300em"/> 
+<img src="images/visiblechinese_4.PNG" height="300em"/> 
+<img src="images/visiblechinese_5.PNG" height="300em"/> 
+</p>
 
 
 ## Haksiklife Flutter application
