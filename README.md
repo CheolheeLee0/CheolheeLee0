@@ -129,30 +129,6 @@
 <img src="images/nail_9.jpg" height="300em"/> 
 </p>
 
-
-## Flutter-Firebase-Chatting
-### Overview
-- An application that allows firebase google login users to chat.
-- It is linked to the server.
-- It reflects the comments in real time using stream builder.
-
-### Technology stack
-- Flutter, Dart
-- Firebase
-- Firebase auth
-- Firestore
-- Firestorage
-- Streambuilder
-- Provider
-
-### Screenshots
-#### In App
-<img src="images/chatting_1.gif" height="300em" /> <img src="images/chatting_2.gif" height="300em" /> <img src="images/chatting_3.gif" height="300em" /> <img src="images/chatting_4.gif" height="300em" /> <img src="images/chatting_5.gif" height="300em" />
-#### Backend
-<img src="images/backend_1.gif" height="300em" />
-<img src="images/backend_2.gif" height="300em" />
-<img src="images/backend_3.gif" height="300em" />
-
 ## Lotto number generation app
 ### Overview
 - It is an application that collects the tools you need to enjoy the lottery.
@@ -203,7 +179,6 @@
 
 <img src="images/shalarm_1.png" /> 
 <img src="images/shalarm_2.png" /> 
-<img src="images/shalarm_3.png" /> 
 
 <div align="center">
   
