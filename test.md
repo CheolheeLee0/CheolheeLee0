@@ -1,2 +1,0 @@
-- [x] New Feature
-- [ ] Bug fix
