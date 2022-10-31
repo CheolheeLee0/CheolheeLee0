@@ -1,27 +1,159 @@
+
 ## Hi, I'm [CheolheeLee0](https://pawan.live) 👋
 
+### Studying At
+- [Chungnam National University CSE](https://computer.cnu.ac.kr/)
 
-- ✈ I worked at [Information system management group](https://namu.wiki/w/%EA%B3%B5%EA%B5%B0%EC%A0%95%EB%B3%B4%EC%B2%B4%EA%B3%84%EA%B4%80%EB%A6%AC%EB%8B%A8) as Software Maintenance and Development of Air force overtime management system for 2 years.
-- 🏬 I'm currently a computer science student at [Chungnam National University](https://computer.cnu.ac.kr/).
-- 🌏 I’m currently learning more about Flutter Application Development.
-- 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: 
-  - [크몽 - @늘찬솔](https://kmong.com/gig/404740)
-  - [Tistory - @차리](https://cheolheelee.tistory.com)
-  - [Youtube - @Dynamic Coding](https://www.youtube.com/channel/UCREHSgfUejCm_yiWfWSen1Q)
-  - [Gmail - @wks0968@gmail.com](https://mail.google.com)
-- 😄 Pronouns: He/His
-- 💧 Fun fact: I drink at least 2 liters of water a day.
+### Work experience
+
+- [Information system management group](https://namu.wiki/w/%EA%B3%B5%EA%B5%B0%EC%A0%95%EB%B3%B4%EC%B2%B4%EA%B3%84%EA%B4%80%EB%A6%AC%EB%8B%A8) : 2019.10~2021.05
+  - Software Maintenance and Development 
+  - Air force overtime management system
+
+### App Projects
+
+- Collaborative Development
+  - student calendar app
+  - nail art community app
+  
+- Outsourcing Development
+  - chinese education app
+  - phisycal estimation app
+
+- Personal Project
+  - Lotto number generation app
+  - Share Alarm Web app
+
+### How to Reach me
+
+<a href="https://kmong.com/gig/404740" target="_blank">
+   <img src="https://img.shields.io/badge/kmong service-FFD400?style=for-the-badge&logoColor=ffffff"/>
+</a>
+<a href="https://cheolheelee.tistory.com/" target="_blank">
+   <img src="https://img.shields.io/badge/Tistory blog-000000?logo=Tistory&style=for-the-badge&logoColor=ffffff"/>
+</a>
+<a href="https://www.youtube.com/channel/UCREHSgfUejCm_yiWfWSen1Q" target="_blank">
+   <img src="https://img.shields.io/badge/YouTube Channel-FF0000?logo=YouTube&style=for-the-badge&logoColor=ffffff"/>
+</a>
+<a href="https://www.instagram.com/wks0968/" target="_blank">
+   <img src="https://img.shields.io/badge/Instagram Channel-E4405F?logo=Instagram&style=for-the-badge&logoColor=ffffff"/>
+</a>
+<a href="https://mail.google.com" target="_blank">
+   <img src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&style=for-the-badge&logoColor=ffffff"/>
+</a>
 
 ## Languages and Tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+### Frontend
 
+<a href="https://www.google.com/search?q=flutter" target="_blank">
+   <img src="https://img.shields.io/badge/Flutter-02569B?logo=Flutter&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<a href="https://www.google.com/search?q=dart" target="_blank">
+   <img src="https://img.shields.io/badge/Dart-0175C2?logo=Dart&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<br>
+
+<a href="https://www.google.com/search?q=react" target="_blank">
+   <img src="https://img.shields.io/badge/React-61DAFB?logo=React&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<a href="https://www.google.com/search?q=javascript" target="_blank">
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<a href="https://www.google.com/search?q=html5" target="_blank">
+   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<a href="https://www.google.com/search?q=css3" target="_blank">
+   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+### Backend
+
+<a href="https://www.google.com/search?q=typescript" target="_blank">
+   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<a href="https://www.google.com/search?q=node.js" target="_blank">
+   <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<a href="https://www.google.com/search?q=postgresql" target="_blank">
+   <img src="https://img.shields.io/badge/PostgreSQL DB-4169E1?logo=PostgreSQL&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<br>
+
+<a href="https://www.google.com/search?q=spring 4.0" target="_blank">
+   <img src="https://img.shields.io/badge/Spring 4.0-6DB33F?logo=Spring&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<a href="https://www.google.com/search?q=mybatis" target="_blank">
+   <img src="https://img.shields.io/badge/Spring MyBatis-6DB33F?&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<a href="https://www.google.com/search?q=oracle db" target="_blank">
+   <img src="https://img.shields.io/badge/Oracle DB-F80000?logo=Spring&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<br>
+
+### CI/CD
+
+<a href="https://www.google.com/search?q=github actions" target="_blank">
+   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=GitHub Actions&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+### Cloud
+
+<a href="https://www.google.com/search?q=amazon ec2" target="_blank">
+   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=Amazon EC2&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<a href="https://www.google.com/search?q=nginx" target="_blank">
+   <img src="https://img.shields.io/badge/NGINX-009639?logo=NGINX&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<a href="https://www.google.com/search?q=pm2" target="_blank">
+   <img src="https://img.shields.io/badge/PM2-2B037A?logo=PM2&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<br>
+
+<a href="https://www.google.com/search?q=amazon s3" target="_blank">
+   <img src="https://img.shields.io/badge/Amazon S3-569A31?logo=Amazon S3&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<a href="https://www.google.com/search?q=amazon codedeploy" target="_blank">
+   <img src="https://img.shields.io/badge/Amazon CodeDeploy-569A31?style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<a href="https://www.google.com/search?q=amazon route53" target="_blank">
+   <img src="https://img.shields.io/badge/Amazon Route53-FF9900?style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<br>
+
+<a href="https://www.google.com/search?q=amazon rds" target="_blank">
+   <img src="https://img.shields.io/badge/Amazon RDS-527fff?logo=Amazon RDS&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<a href="https://www.google.com/search?q=amazon postgresql" target="_blank">
+   <img src="https://img.shields.io/badge/PostgreSQL DB-4169E1?logo=PostgreSQL&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+### Design
+
+<a href="https://www.google.com/search?q=flutter" target="_blank">
+   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<br>
+<br>
 
 <a href="https://github.com/CheolheeLee0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheolheeLee0&theme=light&hide_langs_below=1" />
@@ -34,16 +166,34 @@
 <br/>
 <br/>
 
-<!-- <a href="https://github.com/CheolheeLee0/fbchat0008">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CheolheeLee0&repo=fbchat0008&theme=light" />
-</a>
- -->
-
 ## BOJ solved.ac
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wks0968)](https://solved.ac/wks0968)
 
+
+## PAPS(Physical Activity Promotion System) - In Progress
+
+### Overview
+- As a student health fitness evaluation system, it is a health fitness management program developed to prevent obesity and physical decline of students by completely revising the physical fitness system that evaluates exercise-related physical strength in elementary and secondary schools.
+
+### Technology stack
+- Frontend : Flutter, GetX
+- Backend : Node.js, TypeScript
+- Database : Amazon RDS, PostgreSQL
+- Design : Figma
+- Platform : Android, iOS
+
+### Screenshots
+
+<a href="https://www.youtube.com/shorts/QiNq4KM04aw" target="_blank">
+   <img src="https://img.shields.io/badge/video-FF0000?logo=YouTube&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<img src="http://img.youtube.com/vi/R1DKO3MrZ6I/0.jpg" height=300em/>
+
+
+<br>
 
 ## 보이는중국어(Visible Chinese) Flutter application
 
@@ -61,6 +211,12 @@
 - Platform : Android, iOS
 
 ### Screenshots
+
+<a href="https://www.youtube.com/shorts/QiNq4KM04aw" target="_blank">
+   <img src="https://img.shields.io/badge/video-FF0000?logo=YouTube&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<br>
 
 <p float="left">
 <img src="images/visiblechinese_1.PNG" height="300em"/> 
@@ -157,6 +313,12 @@
 - GetX
 
 ### Screenshots
+<a href="https://www.youtube.com/watch?v=n-0TeF_xeuM" target="_blank">
+   <img src="https://img.shields.io/badge/video-FF0000?logo=YouTube&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<br>
+
 <img src="images/lotto_1.gif" height="300em" /> <img src="images/lotto_2.gif" height="300em" /> <img src="images/lotto_3.gif" height="300em" /> <img src="images/lotto_4.gif" height="300em" /> <img src="images/lotto_5.gif" height="300em" />
 
 ## Share Alarm web application
