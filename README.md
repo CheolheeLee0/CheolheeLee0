@@ -24,6 +24,9 @@
   - Lotto number generation app
   - Share Alarm Web app
 
+### Hobby
+- coding, youtube, playing with cat, cycling, walking, visiting good restaurants, watching movie
+
 ### How to Reach me
 
 <a href="https://kmong.com/gig/404740" target="_blank">
@@ -344,7 +347,7 @@
 
 <div align="center">
   
-### Show some ❤️ by starring some of the repositories!
+### Thank you for reading!
   
 </div>
 
