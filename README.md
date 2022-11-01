@@ -189,7 +189,7 @@
 
 ### Screenshots
 
-<a href="https://www.youtube.com/shorts/QiNq4KM04aw" target="_blank">
+<a href="https://www.youtube.com/watch?v=R1DKO3MrZ6I&t=2s" target="_blank">
    <img src="https://img.shields.io/badge/video-FF0000?logo=YouTube&style=for-the-badge&logoColor=ffffff"/>
 </a>
 
