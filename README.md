@@ -41,7 +41,7 @@
 <a href="https://www.instagram.com/wks0968/" target="_blank">
    <img src="https://img.shields.io/badge/Instagram Channel-E4405F?logo=Instagram&style=for-the-badge&logoColor=ffffff"/>
 </a>
-<a href="https://mail.google.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=wks0968@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&style=for-the-badge&logoColor=ffffff"/>
 </a>
 
