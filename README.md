@@ -151,7 +151,7 @@
 
 ### Design
 
-<a href="https://www.google.com/search?q=flutter" target="_blank">
+<a href="https://www.google.com/search?q=figma" target="_blank">
    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&style=for-the-badge&logoColor=ffffff"/>
 </a>
 
