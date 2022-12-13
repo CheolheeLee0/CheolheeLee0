@@ -85,6 +85,10 @@
    <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&style=for-the-badge&logoColor=ffffff"/>
 </a>
 
+<a href="https://www.google.com/search?q=prisma" target="_blank">
+   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=Prisma&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
 <a href="https://www.google.com/search?q=postgresql" target="_blank">
    <img src="https://img.shields.io/badge/PostgreSQL DB-4169E1?logo=PostgreSQL&style=for-the-badge&logoColor=ffffff"/>
 </a>
@@ -125,6 +129,10 @@
    <img src="https://img.shields.io/badge/PM2-2B037A?logo=PM2&style=for-the-badge&logoColor=ffffff"/>
 </a>
 
+<a href="https://www.google.com/search?q=docker" target="_blank">
+   <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
 <br>
 
 <a href="https://www.google.com/search?q=amazon s3" target="_blank">
@@ -155,6 +163,24 @@
    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&style=for-the-badge&logoColor=ffffff"/>
 </a>
 
+### Collaboration Tool
+<a href="https://www.google.com/search?q=notion" target="_blank">
+   <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<a href="https://www.google.com/search?q=slack" target="_blank">
+   <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<a href="https://www.google.com/search?q=Trello" target="_blank">
+   <img src="https://img.shields.io/badge/Trello-0052CC?logo=Trello&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+<a href="https://www.google.com/search?q=googlemeet" target="_blank">
+   <img src="https://img.shields.io/badge/GoogleMeet-00897B?logo=GoogleMeet&style=for-the-badge&logoColor=ffffff"/>
+</a>
+
+
 <br>
 <br>
 
@@ -180,7 +206,7 @@
 ### Overview
 - As a student health fitness evaluation system, it is a health fitness management program developed to prevent obesity and physical decline of students by completely revising the physical fitness system that evaluates exercise-related physical strength in elementary and secondary schools.
 
-### Technology stack
+### Technology stack (developed by myself)
 - Frontend : Flutter, GetX
 - Backend : Node.js, TypeScript
 - Database : Amazon RDS, PostgreSQL
@@ -204,7 +230,7 @@
 - Chinese conversation education application that learns by looking at native pronunciation.
 - You can re-learn words that you don't know or are confused by the function of reviewing them.
 
-### Technology stack
+### Technology stack (developed by myself)
 - Frontend : Flutter, GetX
 - Backend : Firebase
 - Database : Firestore
@@ -236,9 +262,9 @@
 - On the app that shared school schedules and schedules! a calendar for college students
 - Add my classes and appointments and invite friends to manage your schedule!
 
-### Technology stack
+### Technology stack (developed by 1 Flutter, 1 Spring developer, 1 Designer)
 - Frontend : Flutter, GetX
-- Backend : Spring
+- Backend : Spring WebFlux, Reactive Stream API
 - Database : AWS RDS, MySql
 - Server : AWS EC2
 - Design : Figma
@@ -269,9 +295,10 @@
 - You can express yourself through the profile function. 
 - The subscription feature lets you manage people you are interested in.
 
-### Technology stack
+### Technology stack (developed by 1 PM, 2 Flutter developers)
+- My Role : Community, Board, Profile, Block, Kakao Map, Report, Block, Image Resizing
 - Frontend : Flutter, GetX
-- Backend : Firebase
+- Backend : Firebase 
 - Database : Firebase Firestore
 - Design : Figma
 
@@ -307,7 +334,7 @@
 - QR code shooting.
   - Search for winning information using QR codes.
 
-### Technology stack
+### Technology stack (developed by myself)
 - Flutter
 - Firebase
 - SQLite
@@ -333,7 +360,7 @@
 - You can conveniently add a specific group alarm to your schedule with a click. 
 - Other functions include timer and stopwatch functions.
 
-### Technology stack
+### Technology stack (developed by myself)
 - web link : [https://shalarm.herokuapp.com/](https://shalarm.herokuapp.com/)
 - Frontend : React.js
 - Backend : Node.js
